@@ -1,10 +1,10 @@
-# %MODULE-NAME%
+# Software design patterns
 
-This repository contains resources (including exemplars, instructions, and starter code) for the **%MODULE-NAME%** module.
+This repository contains resources (including exemplars, instructions, and starter code) for the **Software design patterns** module.
 
 ## Set-up
 
-Begin by **forking** this repository and **cloning** it onto your machine.
+Each separate resource is stored on a different branch of this repository.
 
 ## Resources
 
@@ -14,4 +14,5 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| resource_name | `branch_name` |
+| Backend views | `v-backend` |
+| Backend models and controllers | `mc-backend` |
