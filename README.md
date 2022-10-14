@@ -4,7 +4,7 @@ This repository contains resources (including exemplars, instructions, and start
 
 ## Set-up
 
-Each separate resource is stored on a different branch of this repository.
+Begin by **forking** this repository and **cloning** it onto your machine.
 
 ## Resources
 
