@@ -17,3 +17,4 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 | Back-end views | `v-backend` |
 | Back-end models and controllers | `mc-backend` |
 | Object oriented backend | `oop-backend` |
+| REST backend | `rest-backend` |
