@@ -1,6 +1,6 @@
-# Software design patterns
+# Architecture
 
-This repository contains resources (including exemplars, instructions, and starter code) for the **Software design patterns** module.
+This repository contains resources (including exemplars, instructions, and starter code) for the **Architecture** module.
 
 ## Set-up
 
@@ -10,12 +10,8 @@ Begin by **forking** this repository and **cloning** it onto your machine.
 
 Each separate resource is stored on a different branch of this repository.
 
-To access a resource, switch to the relevant branch and read [`instructions.md`](./instructions.md) for details.
-
 | Resource | Branch |
 | --- | --- |
-| Back-end views | `v-backend` |
-| Back-end models and controllers | `mc-backend` |
-| Object oriented backend | `oop-backend` |
-| REST backend | `rest-backend` |
-| API docs | `api-docs` |
+| MVC backend - starter | `mc-backend-starter` |
+| MVC backend - completed | `mc-backend-complete` |
+| MVC backend - practice  | `mc-backend-practice` |

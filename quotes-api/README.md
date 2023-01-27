@@ -1,6 +1,7 @@
 # Quotes API 
 
 ## Setup
+
 Check that the API server works:
 - Run `npm install`
 - Run `npm run dev`
