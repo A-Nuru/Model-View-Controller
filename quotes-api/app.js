@@ -19,10 +19,10 @@ app.get('/quotes/random', (req, res) => {
     res.send(quotes[randIdx]);
 })
 
-app.get('/quotes/:index', (req, res) => {
-    const idx = parseInt(req.params.index);
+app.get('/quotes/:id', (req, res) => {
+    const idx = parseInt(req.params.id);
 
-    if (quotes.length > idx > 0) {
+    if (quotes.length > idx && idx > 0) {
         res.send(quotes[idx]);
     } else {
         res.status(404).send({
