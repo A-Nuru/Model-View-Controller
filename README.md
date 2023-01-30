@@ -15,4 +15,4 @@ Each separate resource is stored on a different branch of this repository.
 | MVC backend - starter | `mc-backend-starter` |
 | MVC backend - completed | `mc-backend-complete` |
 | MVC backend - practice  | `mc-backend-practice` |
-| RESTful workshop - completed  | `restful-complete` |
+| RESTful workshop - completed  | `mc-backend-restful-complete` |
