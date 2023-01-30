@@ -21,9 +21,10 @@ app.get('/quotes/random', (req, res) => {
 
 app.get('/quotes/:id', (req, res) => {
     const idx = parseInt(req.params.id);
+    const quote = quotes.find(q => q.id === idx);
 
-    if (quotes.length > idx && idx > 0) {
-        res.send(quotes[idx]);
+    if (quote) {
+        res.send(quote);
     } else {
         res.status(404).send({
             error: "Quote not found."
